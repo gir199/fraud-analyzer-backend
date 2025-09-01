@@ -5,3 +5,5 @@ beautifulsoup4
 gunicorn
 pandas
 Flask-Cors
+lxml
+
